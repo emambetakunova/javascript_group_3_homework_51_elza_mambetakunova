@@ -4,13 +4,11 @@
     background: #ffbb42;
     padding: 20px 0;
     margin: 0 0 20px 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
 }
 .logo {
     display: inline-block;
-    align-items: center;
     font-size: 40px;
-    margin: 0 0 0 20px;
+    margin: 0 0 0 40px;
     font-weight: bold;
 }
 .main-nav ul {

@@ -5,7 +5,7 @@ import './Footer.css';
 const Footer = (props) => {
     return (
         <div className="footerContent">
-            <p>{props.text}</p>
+            <p>&#169; {props.text}</p>
         </div>
 
     )

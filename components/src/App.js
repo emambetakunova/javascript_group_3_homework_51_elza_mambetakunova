@@ -39,7 +39,7 @@ class App extends Component {
                     </div>
                 </div>
                 <div className="footer">
-                    <Footer text={'Copyright 2014 Maguwohost by FikriStudio'}/>
+                    <Footer text={'Copyright 2018 by Elza Studio'}/>
                 </div>
             </div>
         );
