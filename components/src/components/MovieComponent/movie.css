@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+}
+.movieName {
+    border: 1px solid #282c34;
+    padding: 20px 15px;
+    width: 50%;
+}
+.movieName img {
+    width: 100%;
+    height: auto;
+}
