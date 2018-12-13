@@ -4,7 +4,7 @@ import './Header.css';
 const Header = (props) => {
     return (
         <div className="main-nav">
-            <div className="logo">Cinematica</div>
+            <div className="logo">Movie review</div>
             <ul>
                 <li>{props.home}</li>
                 <li>{props.about}</li>

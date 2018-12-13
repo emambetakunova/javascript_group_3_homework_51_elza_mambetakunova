@@ -2,28 +2,26 @@
     display: flex;
     justify-content: space-between;
     background: #ffbb42;
+    padding: 20px 0;
+    margin: 0 0 20px 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
 }
 .logo {
     display: inline-block;
     align-items: center;
+    font-size: 40px;
+    margin: 0 0 0 20px;
+    font-weight: bold;
 }
 .main-nav ul {
-    padding: 10px;
+    text-transform: uppercase;
+    padding: 15px 0 0 0;
     margin: 0;
     list-style: none;
-    flex: end;
+    font-size: 16px;
+    font-weight: 600;
 }
 .main-nav li {
     display: inline-block;
-    margin-right: 14px;
-}
-.main-nav a {
-    color: #000;
-    font-weight: 600;
-    font-size: 16px;
-    text-decoration: none;
-    display: block;
-    padding: 10px 8px;
-    border-bottom: 1px solid rgba(255,255,255,0.6);
-    text-transform: uppercase;
+    margin-right: 60px;
 }

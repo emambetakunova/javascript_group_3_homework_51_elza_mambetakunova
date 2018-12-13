@@ -5,9 +5,9 @@ import './Movie.css';
 const MovieContent = (props) => {
     return (
         <div className="movieName">
-            <h4>Movie name: {props.name}</h4>
-            <p>Released: {props.released}</p>
+            <h4>{props.name}</h4>
             <img src={props.img} alt=""/>
+            <p><b>Released: </b>{props.released}</p>
         </div>
 
     )

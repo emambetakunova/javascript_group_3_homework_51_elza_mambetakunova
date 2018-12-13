@@ -1,7 +1,12 @@
 .container {
   min-width: 480px;
-  max-width: 1170px;
+  max-width: 1200px;
   margin: 0 auto;
+}
+.wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
 }
 .App {
   text-align: center;
